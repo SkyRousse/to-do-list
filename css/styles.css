@@ -1,0 +1,21 @@
+/*This file is for your custom css.  All yours*/
+#uncompleted-tasks, #completed-tasks {
+  display: none;
+}
+
+.task {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.task:hover {
+  text-decoration: underline;
+}
+
+.completed-list tr {
+  text-decoration: line-through;
+}
+
+.completed-list tr:first-of-type {
+  text-decoration: none;
+}

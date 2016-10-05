@@ -35,7 +35,7 @@ None yet. Still work in progress
 
 ## Support and contact details
 
-email Sky at 503-358-1431
+email Sky at skyrousse@gmail.com
 
 ## Technologies Used
 

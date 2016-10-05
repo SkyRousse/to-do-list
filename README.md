@@ -35,7 +35,7 @@ None yet. Still work in progress
 
 ## Support and contact details
 
-Ask Tim to make an announcement about needing support
+email Sky at 503-358-1431
 
 ## Technologies Used
 
